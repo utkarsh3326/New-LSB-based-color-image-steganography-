@@ -1,4 +1,4 @@
-Cryptosteganography
+New LSB based color image steganography (Cryptosteganography)
 ===================
 
 A python steganography module to store messages or files protected with
@@ -22,12 +22,7 @@ Prerequisites
 
 (Most Linux systems comes with python 3 installed by default).
 
-Dependencies Installation (Ubuntu)
-----------------------------------
 
-.. code:: bash
-
-    $ sudo apt-get install python3-pip
 
 
 Installation
@@ -42,7 +37,7 @@ To install the package just run
 Usage
 -----
 
-Use as a library in a python program
+ Run These commands  For Execution Of the Project  
 ''''''''''''''''''''''''''''''''''''
 
 **Save message example**
